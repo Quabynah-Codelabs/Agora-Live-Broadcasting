@@ -17,4 +17,4 @@ Voila :P run the flutter app by the following code
 flutter run
 ```
 
-If anyone wish to add more feature or change exisiting code in more efficient way, do create a pull request.
+If anyone wish to add more feature or change existing code in more efficient way, do create a pull request.
